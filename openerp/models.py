@@ -4135,7 +4135,8 @@ class BaseModel(object):
                     pleft = pleft_old
                 else:
                     cr.execute('select max(parent_right) from '+self._table)
-                    pleft = cr.fetchone()[0] or 0
+                    pleft = cr.fetchone()[0]
+                pleft = pleft or 0
                 cr.execute('update '+self._table+' set parent_left=parent_left+2 where parent_left>%s', (pleft,))
                 cr.execute('update '+self._table+' set parent_right=parent_right+2 where parent_right>%s', (pleft,))
                 cr.execute('update '+self._table+' set parent_left=%s,parent_right=%s where id=%s', (pleft+1, pleft+2, id_new))
