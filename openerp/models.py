@@ -39,7 +39,6 @@
 
 """
 
-import copy
 import datetime
 import functools
 import itertools
@@ -479,6 +478,18 @@ class BaseModel(object):
             cls._columns.pop(name, None)
 
     @classmethod
+    def _pop_field(cls, name):
+        """ Remove the field with the given `name` from the model.
+            This method should only be used for manual fields.
+        """
+        field = cls._fields.pop(name)
+        cls._columns.pop(name, None)
+        cls._all_columns.pop(name, None)
+        if hasattr(cls, name):
+            delattr(cls, name)
+        return field
+
+    @classmethod
     def _add_magic_fields(cls):
         """ Introduce magic fields on the current class
 
@@ -640,12 +651,6 @@ class BaseModel(object):
             '_original_module': original_module,
         }
         cls = type(cls._name, (cls,), attrs)
-
-        # float fields are registry-dependent (digit attribute); duplicate them
-        # to avoid issues
-        for key, col in cls._columns.items():
-            if col._type == 'float':
-                cls._columns[key] = copy.copy(col)
 
         # instantiate the model, and initialize it
         model = object.__new__(cls)
@@ -2490,8 +2495,8 @@ class BaseModel(object):
                 self._create_table(cr)
                 has_rows = False
             else:
-                cr.execute('SELECT min(id) FROM "%s"' % (self._table,))
-                has_rows = cr.fetchone()[0] is not None
+                cr.execute('SELECT 1 FROM "%s" LIMIT 1' % self._table)
+                has_rows = cr.rowcount
 
             cr.commit()
             if self._parent_store:
@@ -2998,7 +3003,9 @@ class BaseModel(object):
         """ Setup the fields (dependency triggers, etc). """
         for field in self._fields.itervalues():
             if partial and field.manual and \
-                    field.relational and field.comodel_name not in self.pool:
+                    field.relational and \
+                    (field.comodel_name not in self.pool or \
+                     (field.type == 'one2many' and field.inverse_name not in self.pool[field.comodel_name]._fields)):
                 # do not set up manual fields that refer to unknown models
                 continue
             field.setup(self.env)
@@ -3664,12 +3671,10 @@ class BaseModel(object):
         # split up fields into old-style and pure new-style ones
         old_vals, new_vals, unknown = {}, {}, []
         for key, val in vals.iteritems():
-            field = self._fields.get(key)
-            if field:
-                if field.store or field.inherited:
-                    old_vals[key] = val
-                if field.inverse and not field.inherited:
-                    new_vals[key] = val
+            if key in self._columns:
+                old_vals[key] = val
+            elif key in self._fields:
+                new_vals[key] = val
             else:
                 unknown.append(key)
 
@@ -3958,12 +3963,10 @@ class BaseModel(object):
         # split up fields into old-style and pure new-style ones
         old_vals, new_vals, unknown = {}, {}, []
         for key, val in vals.iteritems():
-            field = self._fields.get(key)
-            if field:
-                if field.store or field.inherited:
-                    old_vals[key] = val
-                if field.inverse and not field.inherited:
-                    new_vals[key] = val
+            if key in self._all_columns:
+                old_vals[key] = val
+            elif key in self._fields:
+                new_vals[key] = val
             else:
                 unknown.append(key)
 
