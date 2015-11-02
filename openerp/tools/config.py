@@ -98,7 +98,7 @@ class configmanager(object):
         self.has_ssl = check_ssl()
 
         self._LOGLEVELS = dict([
-            (getattr(loglevels, 'LOG_%s' % x), getattr(logging, x)) 
+            (getattr(loglevels, 'LOG_%s' % x), getattr(logging, x))
             for x in ('CRITICAL', 'ERROR', 'WARNING', 'INFO', 'DEBUG', 'NOTSET')
         ])
 
@@ -652,8 +652,9 @@ class configmanager(object):
         d = os.path.join(self['data_dir'], 'addons', release.series)
         if not os.path.exists(d):
             os.makedirs(d, 0700)
-        else:
-            os.chmod(d, 0700)
+        # BOB: why? quit screwing up my group perms
+        # else:
+        #     os.chmod(d, 0700)
         return d
 
     @property
