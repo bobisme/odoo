@@ -3,114 +3,112 @@
 # * website_mail
 # 
 # Translators:
-# Erwin van der Ploeg <erwin@bas-solutions.nl>, 2015
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-21 14:09+0000\n"
-"PO-Revision-Date: 2015-07-27 17:58+0000\n"
-"Last-Translator: Erwin van der Ploeg <erwin@bas-solutions.nl>\n"
-"Language-Team: Dutch (http://www.transifex.com/odoo/odoo-8/language/nl/)\n"
+"PO-Revision-Date: 2015-10-21 11:37+0000\n"
+"Last-Translator: Martin Trigaux\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/odoo/odoo-8/language/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: nl\n"
+"Language: nb\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Great Headline"
-msgstr "Een grote headline"
+msgstr "En stor overskrift"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Punchy Headline"
-msgstr "Een pittige headline"
+msgstr "En slagkraftig overskrift"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Section Subtitle"
-msgstr "Een sectie ondertitel"
+msgstr "Undertittel for avsnitt"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Small Subtitle"
-msgstr "Een smalle ondertitel"
+msgstr "En liten undertittel"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A good subtitle"
-msgstr "Een goede subtitel"
+msgstr "En god undertittel"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "A great way to catch your reader's attention is to tell a story.\n"
 "                                    Everything you consider writing can be told as a story."
-msgstr "Een geweldig manier om de aandacht van je lezer te trekken is door een verhaal te vertellen.\n                                    Alles waar je over denkt om over schrijven kan als een verhaal verteld worden."
+msgstr ""
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:87
 #, python-format
 msgid "Access Denied"
-msgstr "Toegang geweigerd"
+msgstr "Ingen tilgang"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Advanced Email Features"
-msgstr "Geavanceerde e-mail opties"
+msgstr ""
 
 #. module: website_mail
 #: model:res.groups,comment:website_mail.group_comment
 msgid "Allows website visitors to post comments on blogs, etc."
-msgstr "Sta website bezoekers toe om commentaar te plaatsen op blog, etc."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back"
-msgstr "Vorige"
+msgstr "Tilbake"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back to the mass mailing"
-msgstr "Terug naar de bulk mailing"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 12 hours"
-msgstr "Accu: 12 uur"
+msgstr "Batteri: 12 timer"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 20 hours"
-msgstr "Accu: 20 uur"
+msgstr "Batteri: 20 timer"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 8 hours"
-msgstr "Accu: 8 uur"
+msgstr "Batteri: 8 timer"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Beginner"
-msgstr "Beginner"
+msgstr "Nybegynner"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Message"
-msgstr "Grote boodschap"
+msgstr "Stort budskap"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Picture"
-msgstr "Grote afbeelding"
+msgstr "Stort bilde"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Button"
-msgstr "Knop"
+msgstr "Knapp"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -118,17 +116,17 @@ msgid ""
 "Choose a vibrant image and write an inspiring paragraph\n"
 "                                about it. It does not have to be long, but it should\n"
 "                                reinforce your image."
-msgstr "Kies een levendige afbeelding en schrijf er een inspirerende paragraaf \n                                over. Het hoeft niet lang te zijn, maar het moet \n                                uw afbeelding versterken."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Choose an Email Template"
-msgstr "Kies een e-mail sjabloon"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Comparisons"
-msgstr "Vergelijkingen"
+msgstr "Sammenligninger"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -139,91 +137,91 @@ msgid ""
 "                                    making a relationship connection. This shows up in small\n"
 "                                    quirks like word choices or phrases. Write from your point \n"
 "                                    of view, not from someone else's experience."
-msgstr "Overweeg het vertellen van een goed verhaal dat persoonlijkheid geeft. Het schrijven van een verhaal\n                                    met persoonlijkheid voor potentiële klanten zal helpen bij het ​​maken van een relatie.\n                                    Dit blijkt uit kleine eigenaardigheden zoals woordkeuze of zinnen. Schrijf vanuit uw standpunt,\n                                    niet vanuit de ervaring van iemand anders."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Contact us"
-msgstr "Contact"
+msgstr "Kontakt oss"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Design Your Email"
-msgstr "Ontwerp uw e-mail"
+msgstr ""
 
 #. module: website_mail
 #: model:mail.group,name:website_mail.group_all_employees
 msgid "Discussion Group"
-msgstr "Discussie groep"
+msgstr ""
 
 #. module: website_mail
 #: code:addons/website_mail/models/email_template.py:15
 #: view:email.template:website_mail.email_template_form_inherit_website_link
 #, python-format
 msgid "Edit Template"
-msgstr "Sjabloon bewerken"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Email Design"
-msgstr "E-mail ontwerp"
+msgstr ""
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_email_template
 msgid "Email Templates"
-msgstr "Email-sjablonen"
+msgstr "Epostmaler"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_thread
 msgid "Email Thread"
-msgstr "E-mail discussie"
+msgstr "E-post tråd"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Enterprise package"
-msgstr "Enterprise pakket"
+msgstr "Bedriftpakke"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Expert"
-msgstr "Expert"
+msgstr "Ekspert"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature One"
-msgstr "Functie één"
+msgstr "Funksjon en"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Three"
-msgstr "Functie drie"
+msgstr "Funksjon tre"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Two"
-msgstr "Functie twee"
+msgstr "Funksjon to"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Free shipping, satisfied or reimbursed."
-msgstr "Gratis verzending, klanttevredenheid of retourneren"
+msgstr "Gratis frakt, fornøyd eller refundert."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "From:"
-msgstr "Van:"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Great stories are for everyone even when only written for\n"
 "                                    just one person."
-msgstr "Geweldige verhalen zijn voor iederen zelfs als ze maar geschreven zijn\n                                    door één persoon."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Great stories have personality."
-msgstr "Goede verhalen hebben persoonlijkheid."
+msgstr "Gode historier har personlige trekk."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -232,119 +230,119 @@ msgid ""
 "                                    audience in mind, your story will ring false and be bland. \n"
 "                                    No one will be interested. Write for one person. If it’s genuine\n"
 "                                    for the one, it’s genuine for the rest."
-msgstr "Als u probeert te schrijven met een breed algemene publiek in het achterhoofd, zal uw verhaal niet interessant zijn. Schrijf voor \néén persoon. Als het echt is voor de één, is het echt voor de rest."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Image-Text"
-msgstr "Afbeeldingstekst"
+msgstr "Bilde-tekst"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Limited support"
-msgstr "Beperkte ondersteuning"
+msgstr "Begrenset støtte"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_message
 msgid "Message"
-msgstr "Bericht"
+msgstr "Melding"
 
 #. module: website_mail
 #: help:mail.message,description:0
 msgid "Message description: either the subject, or the beginning of the body"
-msgstr "Bericht omschrijving: of het onderwerp, of het begin van de body"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "New Template"
-msgstr "Nieuwe sjabloon"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "No support"
-msgstr "Geen ondersteuning"
+msgstr "Ingen støtte"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Order now"
-msgstr "Bestel nu"
+msgstr "Bestill nå"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Our Offers"
-msgstr "Onze aanbiedingen"
+msgstr "Våre tilbud"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Professional"
-msgstr "Professioneel"
+msgstr "Profesjonell"
 
 #. module: website_mail
 #: field:mail.message,website_published:0
 msgid "Published"
-msgstr "Gepubliceerd"
+msgstr "Publisert"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.5 inch"
-msgstr "Scherm: 2.5 inch"
+msgstr "Skjerm: 2,5 tommer"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.8 inch"
-msgstr "Scherm: 2.8 inch"
+msgstr "Skjerm: 2,8 tommer"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Select"
-msgstr "Selecteren"
+msgstr "Velg"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Sell Online. Easily."
-msgstr "Verkoop online. Gemakkelijk."
+msgstr "Selg på nettet. Enkelt."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Separator"
-msgstr "Scheidingsteken"
+msgstr "Separator"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Start with the customer – find out what they want\n"
 "                                                    and give it to them."
-msgstr "Start met de klant - Vind uit wat de klant wil\n                                                    en geef het aan hem."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Starter Package"
-msgstr "Starters pakket"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Subject:"
-msgstr "Onderwerp:"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Subscribe"
-msgstr "Abonneren"
+msgstr "Abonner"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text Block"
-msgstr "Tekstblok"
+msgstr "Tekstblokk"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text-Image"
-msgstr "Tekst-afbeelding"
+msgstr "Test-Bilde"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Thanks for your subscription!"
-msgstr "Bedankt voor uw aanmelding!"
+msgstr ""
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:88
@@ -353,67 +351,67 @@ msgid ""
 "The requested operation cannot be completed due to security restrictions. Please contact your system administrator.\n"
 "\n"
 "(Document type: %s, Operation: %s)"
-msgstr "De gevraagde bewerking kan niet worden voltooid vanwege beveiligingsbeperkingen. Neem contact op met uw systeembeheerder.\n\n(Document type: %s, Bewerking: %s)"
+msgstr "Den forespurte operasjonen kan ikke fullføres grunnet sikkerhetsrestriksjoner.\nVennligst kontakt systemadministrator.\n\n(Dokumenttype: %s, Operasjon: %s)"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "The top of the top"
-msgstr "De top van de top"
+msgstr "Toppen av toppen"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Three Columns"
-msgstr "Drie kolommen"
+msgstr "Tre kolonner"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Two Columns"
-msgstr "Twee kolommen"
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Unlimited support"
-msgstr "Onbeperkte ondersteuning"
+msgstr "Ubegrenset støtte"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Unsubscribe"
-msgstr "Opzeggen"
+msgstr "Avslutt abonnement."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "View Product"
-msgstr "Bekijk product"
+msgstr ""
 
 #. module: website_mail
 #: help:mail.message,website_published:0
 msgid "Visible on the website as a comment"
-msgstr "Zichtbaar op de website als commentaar"
+msgstr ""
 
 #. module: website_mail
 #: model:res.groups,name:website_mail.group_comment
 msgid "Website Comments"
-msgstr "Website commentaar"
+msgstr "Nettsidekommentarer"
 
 #. module: website_mail
 #: field:mail.thread,website_message_ids:0
 msgid "Website Messages"
-msgstr "Website berichten"
+msgstr "Meldinger fra Nettsted"
 
 #. module: website_mail
 #: help:mail.thread,website_message_ids:0
 msgid "Website communication history"
-msgstr "Website communicatie geschiedenis"
+msgstr "Historikk for kommuniksjon på nettsted"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.1 ounces"
-msgstr "Gewicht: 1.1 ounces"
+msgstr "Vekt: 32.2 gram"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.2 ounces"
-msgstr "Gewicht: 1.2 ounces"
+msgstr "Vekt: 34.0 gram"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -421,24 +419,24 @@ msgid ""
 "Write one or two paragraphs describing your product,\n"
 "                                                    services or a specific feature. To be successful\n"
 "                                                    your content needs to be useful to your readers."
-msgstr "Schrijf één of twee alinea's welke uw product, diensten of een specifieke functie beschrijven . Om succesvol te zijn, dient uw inhoud nuttig voor uw lezers zijn."
+msgstr ""
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Write one sentence to convince visitor about your message."
-msgstr "Schrijf in één zin om de bezoeker te overtuigen van uw bericht."
+msgstr "Skriv en setning for å overbevise besøkende om budskapet ditt."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "per month"
-msgstr "per maand"
+msgstr "per måned"
 
 #. module: website_mail
 #: field:mail.message,description:0
 msgid "unknown"
-msgstr "onbekend"
+msgstr "ukjent"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "your email..."
-msgstr "uw e-mail..."
+msgstr ""

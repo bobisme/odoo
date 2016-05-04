@@ -3,114 +3,113 @@
 # * website_mail
 # 
 # Translators:
-# Erwin van der Ploeg <erwin@bas-solutions.nl>, 2015
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-21 14:09+0000\n"
-"PO-Revision-Date: 2015-07-27 17:58+0000\n"
-"Last-Translator: Erwin van der Ploeg <erwin@bas-solutions.nl>\n"
-"Language-Team: Dutch (http://www.transifex.com/odoo/odoo-8/language/nl/)\n"
+"PO-Revision-Date: 2015-07-17 08:20+0000\n"
+"Last-Translator: Martin Trigaux\n"
+"Language-Team: Mongolian (http://www.transifex.com/odoo/odoo-8/language/mn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: nl\n"
+"Language: mn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Great Headline"
-msgstr "Een grote headline"
+msgstr "Агуу Толгой гарчиг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Punchy Headline"
-msgstr "Een pittige headline"
+msgstr "Хүчтэй Толгой гарчиг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Section Subtitle"
-msgstr "Een sectie ondertitel"
+msgstr "Хэсгийн Дэд гарчиг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Small Subtitle"
-msgstr "Een smalle ondertitel"
+msgstr "Жижиг Дэд гарчиг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A good subtitle"
-msgstr "Een goede subtitel"
+msgstr "Сайн дэд гарчиг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "A great way to catch your reader's attention is to tell a story.\n"
 "                                    Everything you consider writing can be told as a story."
-msgstr "Een geweldig manier om de aandacht van je lezer te trekken is door een verhaal te vertellen.\n                                    Alles waar je over denkt om over schrijven kan als een verhaal verteld worden."
+msgstr "Уншигчийнхаа анхаарлыг татах агуу аргын нэг бол түүх бичих явдал юм.\n                                    Таны бичих гэж бодож байгаа бүх зүйлийг түүх гэж хэлж болно."
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:87
 #, python-format
 msgid "Access Denied"
-msgstr "Toegang geweigerd"
+msgstr "Хандалтыг татгалзав"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Advanced Email Features"
-msgstr "Geavanceerde e-mail opties"
+msgstr "Эмэйлийн шилдэг боломжууд"
 
 #. module: website_mail
 #: model:res.groups,comment:website_mail.group_comment
 msgid "Allows website visitors to post comments on blogs, etc."
-msgstr "Sta website bezoekers toe om commentaar te plaatsen op blog, etc."
+msgstr "Вебсайтын зочдыг блог дээр сэтгэгдэл үлдээх гэх мэт боломжийг олгодог."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back"
-msgstr "Vorige"
+msgstr "Буцах"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back to the mass mailing"
-msgstr "Terug naar de bulk mailing"
+msgstr "Масс мэйл рүү буцах"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 12 hours"
-msgstr "Accu: 12 uur"
+msgstr "Зай: 12 цаг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 20 hours"
-msgstr "Accu: 20 uur"
+msgstr "Зай: 20 цаг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 8 hours"
-msgstr "Accu: 8 uur"
+msgstr "Зай: 8 цаг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Beginner"
-msgstr "Beginner"
+msgstr "Анхан"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Message"
-msgstr "Grote boodschap"
+msgstr "Том Зурвас"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Picture"
-msgstr "Grote afbeelding"
+msgstr "Том Зураг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Button"
-msgstr "Knop"
+msgstr "Даруул"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -118,17 +117,17 @@ msgid ""
 "Choose a vibrant image and write an inspiring paragraph\n"
 "                                about it. It does not have to be long, but it should\n"
 "                                reinforce your image."
-msgstr "Kies een levendige afbeelding en schrijf er een inspirerende paragraaf \n                                over. Het hoeft niet lang te zijn, maar het moet \n                                uw afbeelding versterken."
+msgstr "Хүчтэй зураг сонгоод үүнийгээ хүч оруулах\n                                сэтгэгдэл төрүүлэх параграф бич. Энэ нь урт байх албагүй боловч\n                                зурагтаа хүч өгсөн байх ёстой."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Choose an Email Template"
-msgstr "Kies een e-mail sjabloon"
+msgstr "Эмэйл үлгэр сонгоно уу"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Comparisons"
-msgstr "Vergelijkingen"
+msgstr "Харьцуулалтууд"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -139,91 +138,91 @@ msgid ""
 "                                    making a relationship connection. This shows up in small\n"
 "                                    quirks like word choices or phrases. Write from your point \n"
 "                                    of view, not from someone else's experience."
-msgstr "Overweeg het vertellen van een goed verhaal dat persoonlijkheid geeft. Het schrijven van een verhaal\n                                    met persoonlijkheid voor potentiële klanten zal helpen bij het ​​maken van een relatie.\n                                    Dit blijkt uit kleine eigenaardigheden zoals woordkeuze of zinnen. Schrijf vanuit uw standpunt,\n                                    niet vanuit de ervaring van iemand anders."
+msgstr "Өөрийн өнгө бүхий гоё түүхийдийг өгүүлэх талаар бодолцох хэрэгтэй.\n                            Өөрийн онцлог бүхий түүхийг захиалагчдаа зориулан бичсэнээр\n                            ирээдүйтэй харилцагч нартай холбоог үүсгэхэд туслана.\n                            Онцгой содон үг сонгох, ёжлолт үүсгэх зэрэгээр онцлогийг харуулж болно.\n                            Өөрийн харах өнцгөөс бичих хэрэгтэй."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Contact us"
-msgstr "Contact"
+msgstr "Бидэнтэй холбогдох"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Design Your Email"
-msgstr "Ontwerp uw e-mail"
+msgstr "Эмэйлээ зохиомжлох"
 
 #. module: website_mail
 #: model:mail.group,name:website_mail.group_all_employees
 msgid "Discussion Group"
-msgstr "Discussie groep"
+msgstr "Хөөрөлдөөний Бүлгэм"
 
 #. module: website_mail
 #: code:addons/website_mail/models/email_template.py:15
 #: view:email.template:website_mail.email_template_form_inherit_website_link
 #, python-format
 msgid "Edit Template"
-msgstr "Sjabloon bewerken"
+msgstr "Үлгэр засах"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Email Design"
-msgstr "E-mail ontwerp"
+msgstr "Эмэйл зохиомж"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_email_template
 msgid "Email Templates"
-msgstr "Email-sjablonen"
+msgstr "Эмэйл Үлгэрүүд"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_thread
 msgid "Email Thread"
-msgstr "E-mail discussie"
+msgstr "Эмэйл Салбар"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Enterprise package"
-msgstr "Enterprise pakket"
+msgstr "Байгууллагын багц"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Expert"
-msgstr "Expert"
+msgstr "Мэргэжилтэн"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature One"
-msgstr "Functie één"
+msgstr "Боломж Нэг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Three"
-msgstr "Functie drie"
+msgstr "Боломж Гурав"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Two"
-msgstr "Functie twee"
+msgstr "Боломж Хоёр"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Free shipping, satisfied or reimbursed."
-msgstr "Gratis verzending, klanttevredenheid of retourneren"
+msgstr "Үнэгүй хүргэлт, сэтгэл ханамж эсвэл буцаан төлбөр"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "From:"
-msgstr "Van:"
+msgstr "Хэнээс:"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Great stories are for everyone even when only written for\n"
 "                                    just one person."
-msgstr "Geweldige verhalen zijn voor iederen zelfs als ze maar geschreven zijn\n                                    door één persoon."
+msgstr "Зөвхөн ганц хүнд зориулан бичсэн байлаа ч гэсэн агуу түүх бол\n                            бүх хүнд зориулагдана."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Great stories have personality."
-msgstr "Goede verhalen hebben persoonlijkheid."
+msgstr "Агуу түүхүүд нь өөрийн өнгөтэй байдаг."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -232,119 +231,119 @@ msgid ""
 "                                    audience in mind, your story will ring false and be bland. \n"
 "                                    No one will be interested. Write for one person. If it’s genuine\n"
 "                                    for the one, it’s genuine for the rest."
-msgstr "Als u probeert te schrijven met een breed algemene publiek in het achterhoofd, zal uw verhaal niet interessant zijn. Schrijf voor \néén persoon. Als het echt is voor de één, is het echt voor de rest."
+msgstr "Хэрэв та маш өргөн хүрээний уншигчдад зориулж ерөнхий байдлаар\n                            бичих гэж байгаа бол таны түүх худал болж дулдуйтсан шинжтэй болно.\n                            Хэн ч сонирхохгүй. Нэг хүнд зориулан бич. Энэ нь нэг хүнд ч гайхамшигтай бол бүх хүнд гайхамшигтай байх болно."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Image-Text"
-msgstr "Afbeeldingstekst"
+msgstr "Зураг-Текст"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Limited support"
-msgstr "Beperkte ondersteuning"
+msgstr "Хязгаарлагдсан дэмжлэг"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_message
 msgid "Message"
-msgstr "Bericht"
+msgstr "Зурвас"
 
 #. module: website_mail
 #: help:mail.message,description:0
 msgid "Message description: either the subject, or the beginning of the body"
-msgstr "Bericht omschrijving: of het onderwerp, of het begin van de body"
+msgstr "Зурвасын тодорхойлолт: гарчиг эсвэл биеийн эхлэлийн аль нэг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "New Template"
-msgstr "Nieuwe sjabloon"
+msgstr "Шинэ үлгэр"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "No support"
-msgstr "Geen ondersteuning"
+msgstr "Дэмжлэг үгүй"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Order now"
-msgstr "Bestel nu"
+msgstr "Одоо захиалах"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Our Offers"
-msgstr "Onze aanbiedingen"
+msgstr "Манай саналууд"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Professional"
-msgstr "Professioneel"
+msgstr "Мэргэжлийн"
 
 #. module: website_mail
 #: field:mail.message,website_published:0
 msgid "Published"
-msgstr "Gepubliceerd"
+msgstr "Нийтлэгдсэн"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.5 inch"
-msgstr "Scherm: 2.5 inch"
+msgstr "Дэлгэц: 2.5 инч"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.8 inch"
-msgstr "Scherm: 2.8 inch"
+msgstr "Дэлгэц: 2.8 инч"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Select"
-msgstr "Selecteren"
+msgstr "Сонгох"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Sell Online. Easily."
-msgstr "Verkoop online. Gemakkelijk."
+msgstr "Онлайн зарах. Маш хялбар."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Separator"
-msgstr "Scheidingsteken"
+msgstr "Түсгаарлагч"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Start with the customer – find out what they want\n"
 "                                                    and give it to them."
-msgstr "Start met de klant - Vind uit wat de klant wil\n                                                    en geef het aan hem."
+msgstr "Захиалагчтай эхлэж – тэдний юу хүсч байгаа олж мэдээд\n                            түүнийг нь өгөх."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Starter Package"
-msgstr "Starters pakket"
+msgstr "Эхлэх багц"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Subject:"
-msgstr "Onderwerp:"
+msgstr "Сэдэв:"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Subscribe"
-msgstr "Abonneren"
+msgstr "Бүртгүүлэх"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text Block"
-msgstr "Tekstblok"
+msgstr "Текст блок"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text-Image"
-msgstr "Tekst-afbeelding"
+msgstr "Текст-Зураг"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Thanks for your subscription!"
-msgstr "Bedankt voor uw aanmelding!"
+msgstr "Бүртгүүлсэнд баярлалаа!"
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:88
@@ -353,67 +352,67 @@ msgid ""
 "The requested operation cannot be completed due to security restrictions. Please contact your system administrator.\n"
 "\n"
 "(Document type: %s, Operation: %s)"
-msgstr "De gevraagde bewerking kan niet worden voltooid vanwege beveiligingsbeperkingen. Neem contact op met uw systeembeheerder.\n\n(Document type: %s, Bewerking: %s)"
+msgstr "Нууцлалын хязгаарлалтын шалтгаанаар хүссэн үйлдэлийг гүйцэтгэх боломжгүй. Системийн администратортайгаа холбогдоно уу.\n\n(Баримтын төрөл: %s, Үйлдэл: %s)"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "The top of the top"
-msgstr "De top van de top"
+msgstr "Шилдэгүүдийн шилдэг"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Three Columns"
-msgstr "Drie kolommen"
+msgstr "Гурван багана"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Two Columns"
-msgstr "Twee kolommen"
+msgstr "Хоёр багана"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Unlimited support"
-msgstr "Onbeperkte ondersteuning"
+msgstr "Хязгааргүй дэмжлэг"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Unsubscribe"
-msgstr "Opzeggen"
+msgstr "Захиалга цуцлах"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "View Product"
-msgstr "Bekijk product"
+msgstr "Барааг харах"
 
 #. module: website_mail
 #: help:mail.message,website_published:0
 msgid "Visible on the website as a comment"
-msgstr "Zichtbaar op de website als commentaar"
+msgstr "Веб хуудас дээр сэтгэгдэл болж үзэгдэх"
 
 #. module: website_mail
 #: model:res.groups,name:website_mail.group_comment
 msgid "Website Comments"
-msgstr "Website commentaar"
+msgstr "Вебсайтын сэтгэгдэлүүд"
 
 #. module: website_mail
 #: field:mail.thread,website_message_ids:0
 msgid "Website Messages"
-msgstr "Website berichten"
+msgstr "Вебсайтын зурвасууд"
 
 #. module: website_mail
 #: help:mail.thread,website_message_ids:0
 msgid "Website communication history"
-msgstr "Website communicatie geschiedenis"
+msgstr "Вебсайтын харилцааны түүх"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.1 ounces"
-msgstr "Gewicht: 1.1 ounces"
+msgstr "Жин: 1.1 унц"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.2 ounces"
-msgstr "Gewicht: 1.2 ounces"
+msgstr "Жин: 1.2 унц"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -421,24 +420,24 @@ msgid ""
 "Write one or two paragraphs describing your product,\n"
 "                                                    services or a specific feature. To be successful\n"
 "                                                    your content needs to be useful to your readers."
-msgstr "Schrijf één of twee alinea's welke uw product, diensten of een specifieke functie beschrijven . Om succesvol te zijn, dient uw inhoud nuttig voor uw lezers zijn."
+msgstr "Өөрийн бүтээгдэхүүн, үйлчилгээний талаар тайлбарласан нэг эсвэл хоёр параграфыг бичнэ үү.\n                                                                    Амжилттай байхын тулд таны агуулга уншигчдад чинь хэрэгтэй байх ёстой."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Write one sentence to convince visitor about your message."
-msgstr "Schrijf in één zin om de bezoeker te overtuigen van uw bericht."
+msgstr "Зочлогч өөрийн зурвасыг итгүүлэх нэг өгүүлбэр бичнэ үү."
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "per month"
-msgstr "per maand"
+msgstr "сард"
 
 #. module: website_mail
 #: field:mail.message,description:0
 msgid "unknown"
-msgstr "onbekend"
+msgstr "үл мэдэгдэх"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "your email..."
-msgstr "uw e-mail..."
+msgstr "таны эмэйл..."

@@ -3,114 +3,117 @@
 # * website_mail
 # 
 # Translators:
-# Erwin van der Ploeg <erwin@bas-solutions.nl>, 2015
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014
+# Jeffery Chenn <jeffery9@gmail.com>, 2016
+# liAnGjiA <liangjia@qq.com>, 2015
+# mrshelly <mrshelly@hotmail.com>, 2015
+# niulinlnc <admin@niulin.net>, 2015
+# liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-21 14:09+0000\n"
-"PO-Revision-Date: 2015-07-27 17:58+0000\n"
-"Last-Translator: Erwin van der Ploeg <erwin@bas-solutions.nl>\n"
-"Language-Team: Dutch (http://www.transifex.com/odoo/odoo-8/language/nl/)\n"
+"PO-Revision-Date: 2016-04-04 14:28+0000\n"
+"Last-Translator: Jeffery Chenn <jeffery9@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/odoo/odoo-8/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Great Headline"
-msgstr "Een grote headline"
+msgstr "一个有力的标题"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Punchy Headline"
-msgstr "Een pittige headline"
+msgstr "一个简洁有力的标题"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Section Subtitle"
-msgstr "Een sectie ondertitel"
+msgstr "小节标题"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A Small Subtitle"
-msgstr "Een smalle ondertitel"
+msgstr "小标题"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "A good subtitle"
-msgstr "Een goede subtitel"
+msgstr "一个好的小标题"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "A great way to catch your reader's attention is to tell a story.\n"
 "                                    Everything you consider writing can be told as a story."
-msgstr "Een geweldig manier om de aandacht van je lezer te trekken is door een verhaal te vertellen.\n                                    Alles waar je over denkt om over schrijven kan als een verhaal verteld worden."
+msgstr "一个非常好的抓住读者眼球讲故事的方法。\n一切你考虑写下来的都被当作一个故事。"
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:87
 #, python-format
 msgid "Access Denied"
-msgstr "Toegang geweigerd"
+msgstr "访问被拒绝"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Advanced Email Features"
-msgstr "Geavanceerde e-mail opties"
+msgstr "高级电子邮件功能"
 
 #. module: website_mail
 #: model:res.groups,comment:website_mail.group_comment
 msgid "Allows website visitors to post comments on blogs, etc."
-msgstr "Sta website bezoekers toe om commentaar te plaatsen op blog, etc."
+msgstr "允许网站的访问者在博客上发表看法，等等。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back"
-msgstr "Vorige"
+msgstr "返回"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Back to the mass mailing"
-msgstr "Terug naar de bulk mailing"
+msgstr "回到邮件群发"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 12 hours"
-msgstr "Accu: 12 uur"
+msgstr "电池：12小时"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 20 hours"
-msgstr "Accu: 20 uur"
+msgstr "电池：20小时"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Battery: 8 hours"
-msgstr "Accu: 8 uur"
+msgstr "电池：8小时"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Beginner"
-msgstr "Beginner"
+msgstr "初学者"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Message"
-msgstr "Grote boodschap"
+msgstr "劲爆消息"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Big Picture"
-msgstr "Grote afbeelding"
+msgstr "大图"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Button"
-msgstr "Knop"
+msgstr "按钮"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -118,17 +121,17 @@ msgid ""
 "Choose a vibrant image and write an inspiring paragraph\n"
 "                                about it. It does not have to be long, but it should\n"
 "                                reinforce your image."
-msgstr "Kies een levendige afbeelding en schrijf er een inspirerende paragraaf \n                                over. Het hoeft niet lang te zijn, maar het moet \n                                uw afbeelding versterken."
+msgstr "选择一个动态图并写一些振奋人心的话，不需要太长，但它应该强化你的图片。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Choose an Email Template"
-msgstr "Kies een e-mail sjabloon"
+msgstr "选择一个邮件模板"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Comparisons"
-msgstr "Vergelijkingen"
+msgstr "比较"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -139,91 +142,91 @@ msgid ""
 "                                    making a relationship connection. This shows up in small\n"
 "                                    quirks like word choices or phrases. Write from your point \n"
 "                                    of view, not from someone else's experience."
-msgstr "Overweeg het vertellen van een goed verhaal dat persoonlijkheid geeft. Het schrijven van een verhaal\n                                    met persoonlijkheid voor potentiële klanten zal helpen bij het ​​maken van een relatie.\n                                    Dit blijkt uit kleine eigenaardigheden zoals woordkeuze of zinnen. Schrijf vanuit uw standpunt,\n                                    niet vanuit de ervaring van iemand anders."
+msgstr "考虑讲述\n一个有个性的精彩故事。\n针对客户个性的故事能够使你跟潜在的客户建立某种联系。\n这会在一些小词语中体现出来。\n从你的角度写，\n而不是别人的经验。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Contact us"
-msgstr "Contact"
+msgstr "联系我们"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Design Your Email"
-msgstr "Ontwerp uw e-mail"
+msgstr "设计你的电子邮件"
 
 #. module: website_mail
 #: model:mail.group,name:website_mail.group_all_employees
 msgid "Discussion Group"
-msgstr "Discussie groep"
+msgstr "讨论群组"
 
 #. module: website_mail
 #: code:addons/website_mail/models/email_template.py:15
 #: view:email.template:website_mail.email_template_form_inherit_website_link
 #, python-format
 msgid "Edit Template"
-msgstr "Sjabloon bewerken"
+msgstr "编辑模板"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Email Design"
-msgstr "E-mail ontwerp"
+msgstr "电子邮件设计"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_email_template
 msgid "Email Templates"
-msgstr "Email-sjablonen"
+msgstr "电子邮件模板"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_thread
 msgid "Email Thread"
-msgstr "E-mail discussie"
+msgstr "电子邮件线程"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Enterprise package"
-msgstr "Enterprise pakket"
+msgstr "企业包"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Expert"
-msgstr "Expert"
+msgstr "专家"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature One"
-msgstr "Functie één"
+msgstr "特性一"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Three"
-msgstr "Functie drie"
+msgstr "特性三"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Feature Two"
-msgstr "Functie twee"
+msgstr "特性二"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Free shipping, satisfied or reimbursed."
-msgstr "Gratis verzending, klanttevredenheid of retourneren"
+msgstr "免费送货，满足或补偿。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "From:"
-msgstr "Van:"
+msgstr "从:"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Great stories are for everyone even when only written for\n"
 "                                    just one person."
-msgstr "Geweldige verhalen zijn voor iederen zelfs als ze maar geschreven zijn\n                                    door één persoon."
+msgstr "伟大的故事总是适合所有人，即便这个故事\n是为一个人写的。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Great stories have personality."
-msgstr "Goede verhalen hebben persoonlijkheid."
+msgstr "伟大的故事都是有个性的。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -232,119 +235,119 @@ msgid ""
 "                                    audience in mind, your story will ring false and be bland. \n"
 "                                    No one will be interested. Write for one person. If it’s genuine\n"
 "                                    for the one, it’s genuine for the rest."
-msgstr "Als u probeert te schrijven met een breed algemene publiek in het achterhoofd, zal uw verhaal niet interessant zijn. Schrijf voor \néén persoon. Als het echt is voor de één, is het echt voor de rest."
+msgstr "如果你试图写一个针对广泛听众的通用故事，\n那将听起来很不可靠，而且还会很平淡，没有人会感兴趣。\n只为一个人写，如果对一个人来说很棒，那么其他人也会觉得很棒。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Image-Text"
-msgstr "Afbeeldingstekst"
+msgstr "图文"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Limited support"
-msgstr "Beperkte ondersteuning"
+msgstr "有限的帮助"
 
 #. module: website_mail
 #: model:ir.model,name:website_mail.model_mail_message
 msgid "Message"
-msgstr "Bericht"
+msgstr "消息"
 
 #. module: website_mail
 #: help:mail.message,description:0
 msgid "Message description: either the subject, or the beginning of the body"
-msgstr "Bericht omschrijving: of het onderwerp, of het begin van de body"
+msgstr "消息描述：可以选择主题或正文的开始部分作为消息的描述。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "New Template"
-msgstr "Nieuwe sjabloon"
+msgstr "新模板"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "No support"
-msgstr "Geen ondersteuning"
+msgstr "不支持"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Order now"
-msgstr "Bestel nu"
+msgstr "现在订购"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Our Offers"
-msgstr "Onze aanbiedingen"
+msgstr "我们提供"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Professional"
-msgstr "Professioneel"
+msgstr "专业的"
 
 #. module: website_mail
 #: field:mail.message,website_published:0
 msgid "Published"
-msgstr "Gepubliceerd"
+msgstr "已发布"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.5 inch"
-msgstr "Scherm: 2.5 inch"
+msgstr "屏幕：2.5英寸"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Screen: 2.8 inch"
-msgstr "Scherm: 2.8 inch"
+msgstr "屏幕尺寸：2.8英寸"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Select"
-msgstr "Selecteren"
+msgstr "选择"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Sell Online. Easily."
-msgstr "Verkoop online. Gemakkelijk."
+msgstr "轻松的在线销售"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Separator"
-msgstr "Scheidingsteken"
+msgstr "分隔符"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid ""
 "Start with the customer – find out what they want\n"
 "                                                    and give it to them."
-msgstr "Start met de klant - Vind uit wat de klant wil\n                                                    en geef het aan hem."
+msgstr "从客户开始–找到他们的需求并满足他们。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Starter Package"
-msgstr "Starters pakket"
+msgstr "基础包"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer
 msgid "Subject:"
-msgstr "Onderwerp:"
+msgstr "主题："
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Subscribe"
-msgstr "Abonneren"
+msgstr "订阅"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text Block"
-msgstr "Tekstblok"
+msgstr "文本块"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Text-Image"
-msgstr "Tekst-afbeelding"
+msgstr "图文"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Thanks for your subscription!"
-msgstr "Bedankt voor uw aanmelding!"
+msgstr "感谢您的订阅！"
 
 #. module: website_mail
 #: code:addons/website_mail/models/mail_message.py:88
@@ -353,67 +356,67 @@ msgid ""
 "The requested operation cannot be completed due to security restrictions. Please contact your system administrator.\n"
 "\n"
 "(Document type: %s, Operation: %s)"
-msgstr "De gevraagde bewerking kan niet worden voltooid vanwege beveiligingsbeperkingen. Neem contact op met uw systeembeheerder.\n\n(Document type: %s, Bewerking: %s)"
+msgstr "由于安全限制，请求的操作不能被完成。请联系你的系统管理员。\n\n(单据类型: %s, 操作: %s)"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "The top of the top"
-msgstr "De top van de top"
+msgstr "顶层的顶层"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Three Columns"
-msgstr "Drie kolommen"
+msgstr "三列"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Two Columns"
-msgstr "Twee kolommen"
+msgstr "两列"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Unlimited support"
-msgstr "Onbeperkte ondersteuning"
+msgstr "顶力支持"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "Unsubscribe"
-msgstr "Opzeggen"
+msgstr "退订"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "View Product"
-msgstr "Bekijk product"
+msgstr "查看产品"
 
 #. module: website_mail
 #: help:mail.message,website_published:0
 msgid "Visible on the website as a comment"
-msgstr "Zichtbaar op de website als commentaar"
+msgstr "作为可见于网站的评论"
 
 #. module: website_mail
 #: model:res.groups,name:website_mail.group_comment
 msgid "Website Comments"
-msgstr "Website commentaar"
+msgstr "网站评论"
 
 #. module: website_mail
 #: field:mail.thread,website_message_ids:0
 msgid "Website Messages"
-msgstr "Website berichten"
+msgstr "网站消息"
 
 #. module: website_mail
 #: help:mail.thread,website_message_ids:0
 msgid "Website communication history"
-msgstr "Website communicatie geschiedenis"
+msgstr "网站沟通历史"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.1 ounces"
-msgstr "Gewicht: 1.1 ounces"
+msgstr "重量：1.1盎司"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Weight: 1.2 ounces"
-msgstr "Gewicht: 1.2 ounces"
+msgstr "重量：1.2盎司"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
@@ -421,24 +424,24 @@ msgid ""
 "Write one or two paragraphs describing your product,\n"
 "                                                    services or a specific feature. To be successful\n"
 "                                                    your content needs to be useful to your readers."
-msgstr "Schrijf één of twee alinea's welke uw product, diensten of een specifieke functie beschrijven . Om succesvol te zijn, dient uw inhoud nuttig voor uw lezers zijn."
+msgstr "写一到二段来描述你的产品或服务，你的内容要对读者有用才会成功。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "Write one sentence to convince visitor about your message."
-msgstr "Schrijf in één zin om de bezoeker te overtuigen van uw bericht."
+msgstr "写一个消息来劝服你网站的访问者。"
 
 #. module: website_mail
 #: view:website:website_mail.email_designer_snippets
 msgid "per month"
-msgstr "per maand"
+msgstr "每月"
 
 #. module: website_mail
 #: field:mail.message,description:0
 msgid "unknown"
-msgstr "onbekend"
+msgstr "未知"
 
 #. module: website_mail
 #: view:website:website_mail.follow
 msgid "your email..."
-msgstr "uw e-mail..."
+msgstr "你的电子邮件..."
